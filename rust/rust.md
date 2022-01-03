@@ -8,3 +8,4 @@
 
 ## Concepts
 - Cell, RefCell, Rc, Arc, Cow, Mutex, RWLock - [Crust of Rust: Smart Pointers and Interior Mutability](https://www.youtube.com/watch?v=8O0Nt9qY_vo)
+- Box -  [The Unsafe Chronicles: Exhibit A: Aliasing Boxes](https://www.youtube.com/watch?v=EY7Wi9fV5bk)
