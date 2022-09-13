@@ -1,4 +1,4 @@
 - “I could either watch it happen or be a part of it.“ - Elon Musk
-- “I... a universe of atoms, an atom in the universe.” - Richard Feynman
-- “I'm smart enough to know that I'm dumb.” - Richard Feynman
+- “I... a universe of atoms, an atom in the universe.“ - Richard Feynman
+- “I'm smart enough to know that I'm dumb.“ - Richard Feynman
 - “The first principle is that you must not fool yourself and you are the easiest person to fool.“ - Richard Feynman
