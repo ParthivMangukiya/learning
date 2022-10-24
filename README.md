@@ -1,2 +1,3 @@
 # learning
-Note to myself/others
+
+Day-to-Day Notes on the topics which I explore.
